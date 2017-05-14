@@ -12,4 +12,4 @@ Things you may want to cover:
      * google-authenticator-rails
 
 # Rails_TOTP
-* Test
+* Test 
